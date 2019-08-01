@@ -1,5 +1,4 @@
 # hello-world
-Just anther repository
 
 Hi peeple,
 
