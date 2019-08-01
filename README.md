@@ -3,4 +3,4 @@ Just anther repository
 
 Hi peeple,
 
-I'm Rei I like motorbikes and beer.
+I'm Rei, I like motorbikes and beer.
